@@ -10,5 +10,6 @@ echo "Welcome to cgts";
 <?php 
 echo "Git Hub is working fine";
 ?>
+<h1> Join the party </H1>
 </body>
 </html>
