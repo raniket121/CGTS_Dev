@@ -1,2 +1,14 @@
-echo "Welcome to cgts"
-echo "Git Hub is working fine"
+<html>
+<head>
+<title>Welcome</title>
+</head>
+<body>
+<?php 
+echo "Welcome to cgts";
+?>
+<BR>
+<?php 
+echo "Git Hub is working fine";
+?>
+</body>
+</html>
